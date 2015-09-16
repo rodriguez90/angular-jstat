@@ -1,0 +1,25 @@
+{
+  "name": "angular-jstat",
+  "version": "0.1.0",
+  "description": "Angular wrapper for jstat",
+  "main": "angular-jstat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://j5vii@github.com/viiopen/angular-jstat.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viiopen/angular-jstat/issues"
+  },
+  "homepage": "https://github.com/viiopen/angular-jstat",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.1",
+  }
+}
